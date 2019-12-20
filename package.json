@@ -1,0 +1,22 @@
+{
+  "name": "torrent-grabber-cli",
+  "version": "1.0.0",
+  "description": "A CLI for torrent-grabber package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yurii Sichkovskyi <YuriiSichkovskyi@protonmail.com>",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clipboardy": "^2.1.0",
+    "eslint": "^6.7.2",
+    "filesize": "^6.0.1",
+    "inquirer": "^7.0.1",
+    "minimist": "^1.2.0",
+    "prettier": "^1.19.1",
+    "shelljs": "^0.8.3",
+    "torrent-grabber": "^1.0.2"
+  }
+}
