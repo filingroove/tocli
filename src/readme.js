@@ -2,7 +2,7 @@ module.exports = `
 A CLI for torrent-grabber
 
 Usage:
-    torr [params]
+    tocli [params]
 
 Params:
     -q --query          - a query
