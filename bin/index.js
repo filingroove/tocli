@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+
 
 const tg = require("torrent-grabber");
 const clipboardy = require("clipboardy");
@@ -6,9 +6,9 @@ const chalk = require("chalk");
 const inquirer = require("inquirer");
 const argv = require("minimist")(process.argv.slice(2));
 
-const readme = require("./src/readme");
-const torrentItem = require("./src/torrentItem");
-const baseURLs = require("./src/baseURLs");
+const readme = require("../src/readme");
+const torrentItem = require("../src/torrentItem");
+const baseURLs = require("../src/baseURLs");
 
 const trackersToUse = ["1337x", "ThePirateBay", "Nnm"];
 
