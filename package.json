@@ -1,19 +1,19 @@
 {
-  "name": "torr",
+  "name": "tocli",
   "version": "1.0.0",
-  "description": "A CLI for torrent-grabber package",
-  "main": "./bin/index.js",
+  "description": "A CLI torrent search",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "torr": "./bin/index.js"
+    "tocli": "./bin/index.js"
   },
   "preferGlobal": true,
-  "homepage": "https://github.com/filingroove/torr",
+  "homepage": "https://github.com/filingroove/tocli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/filingroove/torr.git"
+    "url": "https://github.com/filingroove/tocli.git"
   },
   "author": "Yurii Sichkovskyi <YuriiSichkovskyi@protonmail.com>",
   "license": "MIT",
