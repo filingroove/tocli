@@ -7,7 +7,7 @@ Goal was to make a very small usable wrapper as fast as possible. Not sure I'm g
 ## Install
 
 ```
-$ npm i -g tocli
+$ npm i -g @filingroove/tocli
 ```
 
 ## Actually

@@ -1,5 +1,5 @@
 {
-  "name": "tocli",
+  "name": "@filingroove/tocli",
   "version": "1.0.0",
   "description": "A CLI torrent search",
   "main": "./src/index.js",
